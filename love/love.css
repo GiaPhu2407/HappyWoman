@@ -292,6 +292,7 @@ body{
     z-index: 10;
     width: 35px;
     transition: 0.5s;
+    margin-left: -150px;
 }
 .buttonLove .cricleBtn{
     width: 40px;
